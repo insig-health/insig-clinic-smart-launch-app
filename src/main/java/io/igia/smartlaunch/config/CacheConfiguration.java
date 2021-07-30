@@ -12,8 +12,8 @@
  */
 package io.igia.smartlaunch.config;
 
-import io.github.jhipster.config.JHipsterConstants;
-import io.github.jhipster.config.JHipsterProperties;
+import tech.jhipster.config.JHipsterConstants;
+import tech.jhipster.config.JHipsterProperties;
 
 import com.hazelcast.config.*;
 import com.hazelcast.core.HazelcastInstance;

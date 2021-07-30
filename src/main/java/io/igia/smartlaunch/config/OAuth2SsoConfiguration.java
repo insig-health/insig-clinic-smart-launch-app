@@ -28,7 +28,7 @@ import org.springframework.security.web.csrf.CookieCsrfTokenRepository;
 import org.springframework.security.web.csrf.CsrfFilter;
 import org.springframework.web.filter.CorsFilter;
 
-import io.github.jhipster.security.AjaxLogoutSuccessHandler;
+import tech.jhipster.security.AjaxLogoutSuccessHandler;
 import io.igia.smartlaunch.security.AuthoritiesConstants;
 
 @EnableOAuth2Sso

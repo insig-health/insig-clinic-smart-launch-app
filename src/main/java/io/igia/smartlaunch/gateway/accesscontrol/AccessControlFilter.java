@@ -12,7 +12,7 @@
  */
 package io.igia.smartlaunch.gateway.accesscontrol;
 
-import io.github.jhipster.config.JHipsterProperties;
+import tech.jhipster.config.JHipsterProperties;
 
 import java.util.List;
 import java.util.Map;

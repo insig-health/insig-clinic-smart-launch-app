@@ -32,7 +32,7 @@ import io.github.bucket4j.*;
 import io.github.bucket4j.grid.GridBucketState;
 import io.github.bucket4j.grid.ProxyManager;
 import io.github.bucket4j.grid.jcache.JCache;
-import io.github.jhipster.config.JHipsterProperties;
+import tech.jhipster.config.JHipsterProperties;
 import io.igia.smartlaunch.security.SecurityUtils;
 
 /**

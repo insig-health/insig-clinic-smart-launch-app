@@ -15,7 +15,7 @@ package io.igia.smartlaunch.config.apidoc;
 import java.util.ArrayList;
 import java.util.List;
 
-import io.github.jhipster.config.JHipsterConstants;
+import tech.jhipster.config.JHipsterConstants;
 
 import org.springframework.context.annotation.*;
 import org.springframework.cloud.netflix.zuul.filters.Route;

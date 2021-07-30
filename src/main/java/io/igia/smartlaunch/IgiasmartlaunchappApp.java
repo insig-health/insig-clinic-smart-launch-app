@@ -12,7 +12,7 @@
  */
 package io.igia.smartlaunch;
 
-import io.github.jhipster.config.JHipsterConstants;
+import tech.jhipster.config.JHipsterConstants;
 import io.igia.smartlaunch.config.ApplicationProperties;
 import io.igia.smartlaunch.config.DefaultProfileUtil;
 

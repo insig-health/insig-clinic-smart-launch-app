@@ -12,7 +12,7 @@
  */
 package io.igia.smartlaunch.config;
 
-import io.github.jhipster.config.JHipsterConstants;
+import tech.jhipster.config.JHipsterConstants;
 import io.igia.smartlaunch.aop.logging.LoggingAspect;
 
 import org.springframework.context.annotation.*;
