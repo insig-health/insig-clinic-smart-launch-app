@@ -13,7 +13,7 @@
 package io.igia.smartlaunch.web.rest;
 
 import com.codahale.metrics.annotation.Timed;
-import io.github.jhipster.web.util.ResponseUtil;
+import tech.jhipster.web.util.ResponseUtil;
 import io.igia.smartlaunch.config.Constants;
 import io.igia.smartlaunch.security.AuthoritiesConstants;
 import io.igia.smartlaunch.service.UserService;

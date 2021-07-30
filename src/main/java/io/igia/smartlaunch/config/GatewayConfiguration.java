@@ -12,7 +12,7 @@
  */
 package io.igia.smartlaunch.config;
 
-import io.github.jhipster.config.JHipsterProperties;
+import tech.jhipster.config.JHipsterProperties;
 import io.igia.smartlaunch.gateway.accesscontrol.AccessControlFilter;
 import io.igia.smartlaunch.gateway.ratelimiting.RateLimitingFilter;
 import io.igia.smartlaunch.gateway.responserewriting.SwaggerBasePathRewritingFilter;

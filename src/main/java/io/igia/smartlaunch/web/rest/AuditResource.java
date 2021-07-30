@@ -12,7 +12,7 @@
  */
 package io.igia.smartlaunch.web.rest;
 
-import io.github.jhipster.web.util.ResponseUtil;
+import tech.jhipster.web.util.ResponseUtil;
 import io.igia.smartlaunch.service.AuditEventService;
 import io.igia.smartlaunch.web.rest.util.PaginationUtil;
 
